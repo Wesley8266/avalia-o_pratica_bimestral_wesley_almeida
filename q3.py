@@ -12,7 +12,7 @@ for i in range(10):
         impar.append(n)
         soma_impar += n
 print(f"lista dos pares: {par}")
-print(f"lista dos pares: {impar}")
+print(f"lista dos impares: {impar}")
 print(f"soma dos pares: {soma_par}")
 print(f"soma dos impares: {soma_impar}")
 
