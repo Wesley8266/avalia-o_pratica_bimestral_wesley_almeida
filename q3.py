@@ -15,5 +15,3 @@ print(f"lista dos pares: {par}")
 print(f"lista dos impares: {impar}")
 print(f"soma dos pares: {soma_par}")
 print(f"soma dos impares: {soma_impar}")
-
-
