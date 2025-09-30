@@ -1,9 +1,8 @@
 #questão 7
-def par_impar():
-    numero = int(input("digite um numero inteiro: "))
-    if numero % 2 == 0:
+def par_impar(n):
+    if n % 2 == 0:
         print("o numero é par")
     else:
-        print("o numero numero é impar")
-
-par_impar()
+        print("o numero é impar")
+par_impar(7)
+par_impar(2)
