@@ -11,8 +11,8 @@ for i in range(10):
     else:
         impar.append(n)
         soma_impar += n
-print(par)
-print(impar)
+print(f"lista dos pares: {par}")
+print(f"lista dos pares: {impar}")
 print(f"soma dos pares: {soma_par}")
 print(f"soma dos impares: {soma_impar}")
 
